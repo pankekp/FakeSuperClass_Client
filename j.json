@@ -1,0 +1,45 @@
+{
+  "record": {
+    "scheduleList": [
+      {
+        "teacherId": "0000155",
+        "classes": "预防本科1314班 预防本科1315班",
+        "classNo": "001",
+        "location": "教学楼305",
+        "semester": "20161",
+        "time": "1-18周 二[1-2节]",
+        "courseId": "CourseId",
+        "peopleNum": "135",
+        "scheduleId": 1
+      },
+      {
+        "teacherId": "0000155",
+        "classes": "预防本科1314班 预防本科1315班",
+        "classNo": "001",
+        "location": "教学楼308",
+        "semester": "20161",
+        "time": "1-5周 三[5-6节]",
+        "courseId": "CourseId",
+        "peopleNum": "135",
+        "scheduleId": 2
+      },
+      {
+        "teacherId": "0000155",
+        "classes": "预防本科1314班 预防本科1315班",
+        "classNo": "001",
+        "location": "教学楼305",
+        "semester": "20161",
+        "time": "1-18周 五[3-4节]",
+        "courseId": "CourseId",
+        "peopleNum": "135",
+        "scheduleId": 3
+      }
+    ],
+    "courseList": [
+      {},
+      {},
+      {}
+    ]
+  },
+  "type": "record"
+}
